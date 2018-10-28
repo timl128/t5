@@ -1,18 +1,8 @@
 # Logging application
 
-Time complexity  :
-
-JSON parse 
-
-Find the trace id with error
-
-Extract the log with specific trace id and sorted by Time
-
-
 
 ### Assumption
 The error rate should be low. 
-
 
 ### Design
 
