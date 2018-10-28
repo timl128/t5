@@ -83,7 +83,7 @@ Overall memory complexity :
 `O(n) + O(1) * O(n) = 2* O(n) = O(n)` 
 
 
-### Worse case
+### Worst case
 If the error rate is high and most of the logs contain a parent span id and shares the same parent span id.
  
 
@@ -98,7 +98,7 @@ Overall memory complexity : `O(n^2)`
 ### Set up
 
 1. Please download the source code from git hub
-
+2. Change the file permission of `gradlew`  to 755.
 
 The `format-all-1.0jar` is in the project root directory.
 
